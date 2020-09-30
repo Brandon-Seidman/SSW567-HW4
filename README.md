@@ -1,2 +1,3 @@
 # SSW567-HW4
-Homework 4 for SSW567
+Brandon Seidman
+I pledge my honor that I have abdied by the Stevens Honor System -BS
