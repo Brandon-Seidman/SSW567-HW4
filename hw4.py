@@ -19,6 +19,6 @@ def printRepos(un):
         yo = oy.json()
         listOfNumbers.append(len(yo))
     for i in range(len(obj)):
-        print("Repo: " + listOfNames[i] + " Number of commits: " + str(listOfNumbers[i]))
+        #print("Repo: " + listOfNames[i] + " Number of commits: " + str(listOfNumbers[i]))
         finalList.append("Repo: " + listOfNames[i] + " Number of commits: " + str(listOfNumbers[i]))
     return finalList
